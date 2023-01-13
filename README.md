@@ -4,7 +4,7 @@ Welcome to my simple Snake Game project, which was built using Java Swing compon
 Usage guide:
 * Make sure Java is installed in your computer
 * Download this repo
-* Run "Main.java" file using command line or any suitable IDE for Java
+* Run "Main.java" file using command line or any suitable IDE for Java (I use IntelliJ IDEA)
 
 Some side notes, this game allows users to select their desired difficulty, and also to activate/de-activate wall collision in the game.
 
